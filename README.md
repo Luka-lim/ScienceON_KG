@@ -16,8 +16,9 @@ Research reports
 Data Ecosystem Development: Aggregates and integrates diverse scientific and technological data using an ETL (Extract, Transform, Load) process.
 Knowledge Graph Construction: Utilizes the Resource Description Framework (RDF) to create a detailed and interconnected representation of scientific activities.
 User-Centric Applications: Leverages the knowledge graph for graph-related experiments and the development of applications tailored to the needs of researchers and practitioners.
-Experiencing ScienceON
-Our services are accessible via the ScienceON platform ScienceON. All data can be accessed through the ScienceON API Gateway at ScienceON API Gateway.
+
+## Experiencing ScienceON
+Our services are accessible via the ScienceON platform [ScienceON](https://scienceon.kisti.re.kr/). All data can be accessed through the ScienceON API Gateway at [ScienceON API Gateway](https://scienceon.kisti.re.kr/apigateway).
 
 ## Contributions
 This repository is a part of our efforts to democratize access to complex data and provide the community with tools to explore and analyze the intricate web of science and technology data. We encourage contributions from the community to help us improve and expand the capabilities of the ScienceON Knowledge Graph System.
